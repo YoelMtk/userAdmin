@@ -1,0 +1,6 @@
+{
+  "name": "Da Gianni | Café, Ristorante & Bodegón",
+  "description": "Sitio oficial de Café - Ristorante Da Gianni en Santa Cruz de Aragua. Pastas artesanales, café de especialidad, panadería europea, bodegón de vinos, pedidos para llevar y delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
